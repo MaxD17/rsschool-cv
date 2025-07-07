@@ -23,3 +23,11 @@
          return a * b
         }
 ```  
+## Education
+
+  * *Belarusian State University of Physical Culture*
+  * *courses of basic objective-oriented programming*
+
+## English
+
+  English (А1+) (A2)
