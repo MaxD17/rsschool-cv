@@ -44,3 +44,50 @@ a:hover {
     font-weight: 700;
     font-size: 18px;
 }
+
+/*MAIN*/
+
+.main {
+
+}
+
+.hello .container {
+ 
+}
+
+.hello {
+    
+}
+
+.hello-desc {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    padding: 0 20px;
+}
+
+.hello-text {
+    font-weight: 700;
+    font-size: 40px;
+    color: coral;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+
+.hello-p {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: azure;
+    text-align: center;
+}
+
+.hello-foto {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+
+}
