@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
     font-family: "Montserrat", sans-serif;
@@ -19,6 +23,7 @@ a:hover {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+
 }
 /* HEADER*/
 
@@ -52,11 +57,12 @@ a:hover {
 }
 
 .hello .container {
- 
+    border-bottom: 15px solid #d7d1c9;
+    padding-bottom: 20px;
 }
 
 .hello {
-    
+    width: 100%;
 }
 
 .hello-desc {
@@ -91,3 +97,52 @@ a:hover {
     object-position: center;
 
 }
+ h2 {
+    color: coral;
+ }
+.contacts {
+    background-color: aqua;
+    max-width: 500px;
+    padding: 20px;
+
+}
+
+.summary {
+    background-color: aqua;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.skills {
+    background-color: aqua;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.code {
+    background-color: aqua;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.education {
+    background-color: aqua;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.english {
+    background-color: aqua;
+    max-width: 500px;
+    padding: 20px;
+} 
+
+.about .container {
+
+}
+
+.about {
+
+}
+    
+    
