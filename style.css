@@ -155,3 +155,17 @@ a:hover {
     margin-top: 20px;
     margin-bottom: 20px;
 } 
+/*FOOTER*/
+.footer {
+    background-color: coral;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-log {
+    width: 80px;
+    height: 70px;
+    margin: 0 50px;
+}
