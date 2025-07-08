@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: azure;
+    color: #d7d1c9;
     text-decoration: none;
     transition: opacity 0.4s;
 }
@@ -25,7 +25,7 @@ a:hover {
     margin-right: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-between;    
 }
 /* HEADER*/
 
@@ -56,6 +56,10 @@ a:hover {
 
 .main {
 
+}
+.main .container {
+    border-bottom:15px solid #d7d1c9;
+    margin-bottom: 20px;
 }
 
 .hello .container {
@@ -140,7 +144,7 @@ a:hover {
     padding: 20px;
     background-color: coral;
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 
 .english {
@@ -149,13 +153,5 @@ a:hover {
     padding: 20px;
     background-color: coral;
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 } 
-
-.about .container {
-
-}
-
-.about {
-
-}
