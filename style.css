@@ -23,7 +23,9 @@ a:hover {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 /* HEADER*/
 
@@ -98,43 +100,56 @@ a:hover {
 
 }
  h2 {
-    color: coral;
+    color: gray;
  }
 .contacts {
     background-color: aqua;
-    max-width: 500px;
+    width: 480px;
     padding: 20px;
-
+    background-color: coral;
+    margin-top: 20px;
 }
 
 .summary {
     background-color: aqua;
-    max-width: 500px;
+    width: 480px;
     padding: 20px;
+    background-color: coral;
+    margin-top: 20px;
 }
 
 .skills {
     background-color: aqua;
-    max-width: 500px;
+    width: 480px;
     padding: 20px;
+    background-color: coral;
+    margin-top: 20px;
 }
 
 .code {
     background-color: aqua;
-    max-width: 500px;
+    width: 480px;
     padding: 20px;
+    background-color: coral;
+    margin-top: 20px;
 }
 
 .education {
     background-color: aqua;
-    max-width: 500px;
+    width: 480px;
     padding: 20px;
+    background-color: coral;
+    margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 .english {
     background-color: aqua;
-    max-width: 500px;
+    width: 480px;
     padding: 20px;
+    background-color: coral;
+    margin-top: 20px;
+    margin-bottom: 100px;
 } 
 
 .about .container {
@@ -144,5 +159,3 @@ a:hover {
 .about {
 
 }
-    
-    
