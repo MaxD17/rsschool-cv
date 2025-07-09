@@ -25,7 +25,8 @@ a:hover {
     margin-right: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;    
+    justify-content: center;
+    gap: 16px;
 }
 /* HEADER*/
 
@@ -54,9 +55,6 @@ a:hover {
 
 /*MAIN*/
 
-.main {
-
-}
 .main .container {
     border-bottom:15px solid #d7d1c9;
     margin-bottom: 20px;
@@ -107,53 +105,47 @@ a:hover {
     color: gray;
  }
 .contacts {
-    background-color: aqua;
     width: 480px;
     padding: 20px;
     background-color: coral;
-    margin-top: 20px;
+
 }
 
 .summary {
-    background-color: aqua;
     width: 480px;
     padding: 20px;
     background-color: coral;
-    margin-top: 20px;
+
 }
 
 .skills {
-    background-color: aqua;
     width: 480px;
     padding: 20px;
     background-color: coral;
-    margin-top: 20px;
+
 }
 
 .code {
-    background-color: aqua;
     width: 480px;
     padding: 20px;
     background-color: coral;
-    margin-top: 20px;
+
 }
 
 .education {
-    background-color: aqua;
     width: 480px;
     padding: 20px;
     background-color: coral;
-    margin-top: 20px;
     margin-bottom: 20px;
+
 }
 
 .english {
-    background-color: aqua;
     width: 480px;
     padding: 20px;
     background-color: coral;
-    margin-top: 20px;
     margin-bottom: 20px;
+
 } 
 /*FOOTER*/
 .footer {
